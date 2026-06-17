@@ -4,7 +4,7 @@ Unofficial Python integrations for IME.
 
 ## Integrations
 
-- `ime_create_estimate.py` - `create_estimate` (43 live events).
+- `ime_create_estimate.py` - `create_estimate`.
 
 ## Usage
 
